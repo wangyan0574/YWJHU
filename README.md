@@ -14,7 +14,7 @@ These are the questions that I want to investigate
 
 Datasets:
 business/industry datasets: library jhu. Pet shelters trends (trends over years)
-- currently the data are sourced from [Simply Analytics](https://app.simplyanalytics.com/login.html）
+- currently the data are sourced from [Simply Analytics](https://app.simplyanalytics.com/login.html/）
 
 Overall goal:
 1. Get insights of the pet industry
