@@ -13,6 +13,7 @@ These are the questions that I want to investigate
 Datasets:
 business/industry datasets: library jhu. Pet shelters trends (trends over years)
 - currently the data are sourced from [Simply Analytics](https://app-simplyanalytics-com.proxy1.library.jhu.edu/)
+- [Statista](https://www-statista-com.proxy1.library.jhu.edu/)
 
 Overall goal:
 1. Get insights of the pet industry
@@ -21,4 +22,9 @@ Overall goal:
 BELOW ARE THE THOUGHT PROCESS:
 1. it would be interesting to research pet spread in all US households, proof of Cats and Dogs are the dominant pet category to do business in:
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20Spread.PNG)
+2. We can also look at the "2019 pet supply expenditure by state" vs "Number of pet supply stores" on a map basis, the colors represent the amount spent (either as houseHold average or stateSUM)
+On average / household: this shows where the quality buyers are since they tend to spend more
+![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20expenditure%20(AVG)%20by%20states%202019%20(thousands)%20vs%20numbers%20of%20pet%20supply%20stores%20(quality%20buyers).PNG)
+State SUM: this shows where the big markets are
+![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20expenditure%20(SUM)%20by%20states%202019%20(thousands)%20vs%20numbers%20of%20pet%20supply%20stores%20(biggest%20market).PNG)
 
