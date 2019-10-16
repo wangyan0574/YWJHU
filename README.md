@@ -5,10 +5,9 @@
 
 These are the questions that I want to investigate
 
-1. what do pet owners buy most often (2018,2019)
-2. which product is the most profitabble ()
-3. The demographics: the people buys pet products might be very different people. Millennials might buy higher priced product simply because they likes higher quality and better asthetics; whereas older generation may prefer anythings with good quality and just works.
-4. Trends the pet industry are going, what kind of new, niche products are coming up.
+1. what do pet owners buy most often
+2. The demographics: the people buys pet products might be very different people. Millennials might buy higher priced product simply because they likes higher quality and better asthetics; whereas older generation may prefer anythings with good quality and just works.
+3. Which source of market can I suggest my father go into, wholesale to distribute stores or direct retail (e-commerce, amazon)
 
 Datasets:
 business/industry datasets: library jhu. Pet shelters trends (trends over years)
@@ -27,4 +26,6 @@ On average / household: this shows where the quality buyers are since they tend 
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20expenditure%20(AVG)%20by%20states%202019%20(thousands)%20vs%20numbers%20of%20pet%20supply%20stores%20(quality%20buyers).PNG)
 State SUM: this shows where the big markets are
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20expenditure%20(SUM)%20by%20states%202019%20(thousands)%20vs%20numbers%20of%20pet%20supply%20stores%20(biggest%20market).PNG)
+
+Link to my [Microsoft BI presentation page](https://app.powerbi.com/groups/me/reports/1eaf463b-d808-4553-9242-50d3a3b22df0/ReportSectiona992bde50ab65505d4b5/)
 
