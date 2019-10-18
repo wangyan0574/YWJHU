@@ -1,8 +1,6 @@
 # YWJHU
 # Decision Analytics Foundamentals Project: Investigation on Pet Supply Industry Insight
 
-#Business Insights (Pet supply)
-
 # EXECUTIVE SUMMARY
 The purpose of this research project is to understand the pet supply industry, more specifically, helping my family business to find a way enter the US pet supply market in a comfortable, profitable way. 
 - Challange: finding a good dataset that include many pet owners with their demographic, purchasing trends and purchasing channels is almost impossible. Everything about the pet industry insights during this research has to be made step by step using multiple datasets.
@@ -39,11 +37,14 @@ Proof of Cats and Dogs are the dominant pet category to do business in:
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20Spread.PNG)
 
 Most buying supplies for dogs and cats (grooming, toys should be the easy ones to go since less regulations)
-
+![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/most%20buying%20supplies%20for%20dogs%20and%20cats.PNG)
 
 Demographics comparisons: millennials dominates
-
+![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/millennials%20dominance.PNG)
 
 Online vs Store purchase trends: both are good, and people are buying more and more online. Some good marketing strategies can include TV ads, and Amazon reviews
+![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Online%20vs%20Store%20purchase%20trends.PNG)
+![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/good%20channels%20to%20distribute%2C%20marketing%20insights.PNG)
 
 
+Thank you!
