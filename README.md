@@ -3,6 +3,8 @@
 
 #Business Insights (Pet supply)
 
+The purpose of this research project is to understand the pet supply industry, more specifically, helping my family business to find a way enter the US pet supply market in a comfortable, profitable way. The findings show that it is best to target millennials as the main customer demographic, focus product ideas specifically into cats and dogs, and finally in terms of market channel, about 70%  in partnership with pet retail chain stores and 30% of the effort on e-commerce directly connect to end users.
+
 These are the questions that I want to investigate
 
 1. what do pet owners buy most often
