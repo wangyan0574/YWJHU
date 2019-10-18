@@ -25,26 +25,25 @@ My data questions are as follows
 3. How do I connect to that desired market? Wholesale to distribute stores or direct retail (e-commerce, amazon)
 
 Here is how I obtain my answers:
-- First, I need to know which pets are the most popular among US households. Then find which products are bought the most often for those pets. Next is to see which demographic I am suggesting to focus. Once that's figured, I need to determine the best strategy to connect to users (either through traditional retail chain store partnership or direct sale on Amazon). All these dataset came from [Statista](https://www-statista-com.proxy1.library.jhu.edu/), as it is free for Hopkins students and is a great source of industry data.
+- First, I need to know which pets are the most popular among US households. Then find which products are bought the most often for those pets. Next is to see which demographic I am suggesting to focus. Once that's figured, I need to determine the best strategy to connect to users (either through traditional retail chain store partnership or direct sale on Amazon). All these dataset came from [Statista](https://www-statista-com.proxy1.library.jhu.edu/), as it is free for Hopkins students and is a great source of industry data. However, those are still separate datasets and not specific down to a user level but only at a demographic level. I'd wish to obtain a huge survey dataset with more specific data.
+- The percentages are important in determine the dominating pet category, the pet supply product, which chain store to partner with.
+- The datasets I used are all consolidated into one folder and uploaded.
 
+# DATA ANSWERS
+- The results are straight forward, dogs and cats are the dominating Pet category. The millennials should be the company focus when designing the product styles and tweaks towards their taste. Possible channel to distribute products to consumer are through big pet chain stores (such as, petco, petvalue), about 70 % of the sales should be focused here, and another 30% should focus on direct sale on e-commerce websites such as Amazon.
+- I found Pie charts, are really helpful in detemine the dominances. Bar charts can be a great tool to show trends (a huge increase in online shopping for pet supplies), while line charts can be helpful in comparing two trends (online vs store purchase of pet supplies over the years.)
+st entering the market in US!)
 
-Datasets:
-business/industry datasets: library jhu. Pet shelters trends (trends over years)
-- currently the data are sourced from [Simply Analytics](https://app-simplyanalytics-com.proxy1.library.jhu.edu/)
-- [Statista](https://www-statista-com.proxy1.library.jhu.edu/)
-
-Overall goal:
-1. Get insights of the pet industry
-2. The shopping trends of different demographics: find profitability of different demographics (this will help to determine which target customer group will be a better choice when first entering the market in US!)
-
-BELOW ARE THE THOUGHT PROCESS:
-1. it would be interesting to research pet spread in all US households, proof of Cats and Dogs are the dominant pet category to do business in:
+BELOW ARE SOME OF THESE EXAMPLES:
+Proof of Cats and Dogs are the dominant pet category to do business in:
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20Spread.PNG)
-2. We can also look at the "2019 pet supply expenditure by state" vs "Number of pet supply stores" on a map basis, the colors represent the amount spent (either as houseHold average or stateSUM)
-On average / household: this shows where the quality buyers are since they tend to spend more
-![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20expenditure%20(AVG)%20by%20states%202019%20(thousands)%20vs%20numbers%20of%20pet%20supply%20stores%20(quality%20buyers).PNG)
-State SUM: this shows where the big markets are
-![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20expenditure%20(SUM)%20by%20states%202019%20(thousands)%20vs%20numbers%20of%20pet%20supply%20stores%20(biggest%20market).PNG)
 
-Link to my [Microsoft BI presentation page](https://app.powerbi.com/groups/me/reports/1eaf463b-d808-4553-9242-50d3a3b22df0/ReportSectiond60b5c48b21032065ac2/)
+Most buying supplies for dogs and cats (grooming, toys should be the easy ones to go since less regulations)
+
+
+Demographics comparisons: millennials dominates
+
+
+Online vs Store purchase trends: both are good, and people are buying more and more online. Some good marketing strategies can include TV ads, and Amazon reviews
+
 
