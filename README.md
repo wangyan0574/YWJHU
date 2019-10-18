@@ -25,7 +25,7 @@ My data questions are as follows
 Here is how I obtain my answers:
 - First, I need to know which pets are the most popular among US households. Then find which products are bought the most often for those pets. Next is to see which demographic I am suggesting to focus. Once that's figured, I need to determine the best strategy to connect to users (either through traditional retail chain store partnership or direct sale on Amazon). All these dataset came from [Statista](https://www-statista-com.proxy1.library.jhu.edu/), as it is free for Hopkins students and is a great source of industry data. However, those are still separate datasets and not specific down to a user level but only at a demographic level. I'd wish to obtain a huge survey dataset with more specific data.
 - The percentages are important in determine the dominating pet category, the pet supply product, which chain store to partner with.
-- The datasets I used are all consolidated into one folder and uploaded.
+- The datasets I used are all consolidated into one file and uploaded.
 
 # DATA ANSWERS
 - The results are straight forward, dogs and cats are the dominating Pet category. The millennials should be the company focus when designing the product styles and tweaks towards their taste. Possible channel to distribute products to consumer are through big pet chain stores (such as, petco, petvalue), about 70 % of the sales should be focused here, and another 30% should focus on direct sale on e-commerce websites such as Amazon.
@@ -36,13 +36,13 @@ BELOW ARE SOME OF THESE EXAMPLES:
 Proof of Cats and Dogs are the dominant pet category to do business in:
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Pet%20Spread.PNG)
 
-Most buying supplies for dogs and cats (grooming, toys should be the easy ones to go since less regulations)
+# Most buying supplies for dogs and cats (grooming, toys should be the easy ones to go since less regulations)
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/most%20buying%20supplies%20for%20dogs%20and%20cats.PNG)
 
-Demographics comparisons: millennials dominates
+# Demographics comparisons: millennials dominates
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/millennials%20dominance.PNG)
 
-Online vs Store purchase trends: both are good, and people are buying more and more online. Some good marketing strategies can include TV ads, and Amazon reviews
+# Online vs Store purchase trends: both are good, and people are buying more and more online. Some good marketing strategies can include TV ads, and Amazon reviews
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/Online%20vs%20Store%20purchase%20trends.PNG)
 ![Alt text](https://github.com/wangyan0574/YWJHU/blob/master/good%20channels%20to%20distribute%2C%20marketing%20insights.PNG)
 
